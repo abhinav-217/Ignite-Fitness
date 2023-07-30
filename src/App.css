@@ -4,7 +4,9 @@ body {
   background: linear-gradient(90deg, rgba(28,0,36,0.6952906162464986) 0%, rgba(37,0,132,1) 30%, rgba(255,0,147,0.6672794117647058) 100%);
   color: white;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 * {
   padding: 0px;
   margin: 0px;

@@ -8,14 +8,14 @@ const Footer = () => {
   const loadQuote = ()=>{
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
     setquote(randomQuote);
-    console.log(randomQuote)
+    // console.log(randomQuote)
   }
   const [quote, setquote] = useState("");
   useEffect(() => {
     loadQuote();
   }, [])
   return(
-    <Box mt="80px" bgcolor="#8441479c">
+    <Box mt="40vh" bgcolor="#8441479c">
     <Stack gap="40px" sx={{ alignItems: 'center' }} flexWrap="wrap" px="35px" pt="24px">
       <img src={Logo} alt="logo" style={{ width: '200px', height: '41px' }} />
     </Stack>
