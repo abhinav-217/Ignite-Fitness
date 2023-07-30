@@ -1,6 +1,8 @@
 body {
   font-family: 'Josefin Sans';
-  background-color: #FFFAFB;
+  background: rgb(28,0,36);
+  background: linear-gradient(90deg, rgba(28,0,36,0.6952906162464986) 0%, rgba(37,0,132,1) 30%, rgba(255,0,147,0.6672794117647058) 100%);
+  color: white;
 }
 
 * {
@@ -57,9 +59,10 @@ body {
   position: absolute;
   right: 40px;
   top: 0px;
-  width: 700px;
+  width: 600px;
   height: 900px;
   margin-top: -330px;
+  opacity: 0.8;
 
 }
 
@@ -134,7 +137,9 @@ body {
     width: 320px;
     height: 300px;
   }
-
+  .footer-back{
+    background: rgb(28,0,36);
+    background: linear-gradient(90deg, rgba(28,0,36,0.6952906162464986) 0%, rgba(152,108,222,1) 17%, rgba(75,9,244,1) 30%, rgba(228,179,185,1) 69%, rgba(255,0,147,0.6672794117647058) 100%);}
 }
 
 @media screen and (max-width:400px) {
