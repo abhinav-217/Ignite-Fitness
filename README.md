@@ -15,8 +15,8 @@
 
 Discover exercises tailored to your needs. You can search for exercises or browse them by body part categories.
 
-![Personalized Workouts](https://github.com/abhinav-217/temp-fit/raw/main/assets/85096129/39039dd1-a3d0-4204-affa-91bcbf8ce599.png)
-![Personalized Workouts](https://github.com/abhinav-217/temp-fit/raw/main/assets/85096129/9f96d1f7-479b-4cae-be9d-ab66853691ba.png)
+<img width="960" alt="image" src="https://github.com/abhinav-217/temp-fit/raw/main/assets/85096129/39039dd1-a3d0-4204-affa-91bcbf8ce599.png">
+<img width="960" alt="image" src="https://github.com/abhinav-217/temp-fit/raw/main/assets/85096129/9f96d1f7-479b-4cae-be9d-ab66853691ba.png">
 
 ### Exercise Detail
 
