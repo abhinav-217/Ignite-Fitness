@@ -1,6 +1,7 @@
 # Temp-Fit
 
-<img width="960" alt="image" src="https://github.com/abhinav-217/temp-fit/raw/main/assets/85096129/be986eb6-6704-4ae9-9b0f-c2b238535e83.png">
+<img width="960" alt="image" src="https://github.com/abhinav-217/temp-fit/assets/85096129/b6287e1f-fcfe-49e0-bb0c-c955e7569d0b">
+
 
 **Temp-Fit** is a versatile fitness app that provides personalized workout recommendations based on your preferences and fitness goals. Whether you're aiming to build strength, improve cardio, or enhance flexibility, Temp-Fit offers tailored exercise routines to help you achieve your fitness objectives.
 
